@@ -725,8 +725,8 @@ const data  =[
 {
     id: 1,
     name: "sport t-shart",
-    img: "/Images/t-shart2.jpg",
-    imge: "/Images/b4.JPG",
+    img: "t-shart2.jpg",
+    imge: "b4.JPG",
     span: "&hearts;",
     direct: "New Brand Made in Rwanda... ",
 
@@ -735,26 +735,16 @@ const data  =[
 {
     id: 1,
     name: "sport t-shart",
-    img: "/Images/t-shart3.webp",
-    imge: "/Images/b4.JPG",
+    img: "t-shart3.webp",
+    imge: "b4.JPG",
     span: "&hearts;",
     direct: "New Brand Made in Rwanda... ",
 },
 {
     id: 1,
     name: "sport SHOES",
-    img: "/Images/shoes.png",
-    imge: "/Images/b3.JPG",
-    span: "&hearts;",
-    direct: "New Brand Made in Rwanda... ",
-
-
-},
-{
-    id: 1,
-    name: "sport SHOES",
-    img: "/Images/shoes1.jpg",
-    imge: "/Images/b3.JPG",
+    img: "shoes.png",
+    imge: "b3.JPG",
     span: "&hearts;",
     direct: "New Brand Made in Rwanda... ",
 
@@ -763,8 +753,18 @@ const data  =[
 {
     id: 1,
     name: "sport SHOES",
-    img: "/Images/shoes2.avif",
-    imge: "/Images/b3.JPG",
+    img: "shoes1.jpg",
+    imge: "b3.JPG",
+    span: "&hearts;",
+    direct: "New Brand Made in Rwanda... ",
+
+
+},
+{
+    id: 1,
+    name: "sport SHOES",
+    img: "shoes2.avif",
+    imge: "b3.JPG",
     span: "&hearts;",
     direct: "New Brand Made in Rwanda.. ",
 
@@ -773,8 +773,8 @@ const data  =[
 {
     id: 1,
     name: "sport SHOES",
-    img: "/Images/shoes3.jpg",
-    imge: "/Images/b3.JPG",
+    img: "shoes3.jpg",
+    imge: "b3.JPG",
     span: "&hearts;",
     direct: "New Brand Made in Rwanda... ",
 
@@ -783,8 +783,8 @@ const data  =[
 {
     id: 1,
     name: "sport SHOES",
-    img: "/Images/shoes4.jpg",
-    imge: "/Images/b3.JPG",
+    img: "shoes4.jpg",
+    imge: "b3.JPG",
     span: "&hearts;",
    direct: "New Brand Made in Rwanda... ",
 
@@ -793,8 +793,8 @@ const data  =[
 {
     id: 1,
     name: "sport SHOES",
-    img: "/Images/shoes5.jpg",
-    imge: "/Images/b3.JPG",
+    img: "shoes5.jpg",
+    imge: "b3.JPG",
     span: "&hearts;",
     direct: "New Brand Made in Rwanda... ",
 
@@ -803,8 +803,8 @@ const data  =[
 {
     id: 1,
     name: "sport SHOES",
-    img: "/Images/shoes6.jpg",
-    imge: "/Images/b3.JPG",
+    img: "shoes6.jpg",
+    imge: "b3.JPG",
     span: "&hearts;",
     direct: "New Brand Made in Rwanda... ",
 
@@ -813,8 +813,8 @@ const data  =[
 {
     id: 1,
     name: "sport jeans",
-    img: "/Images/pent.jpg",
-    imge: "/Images/b2.JPG",
+    img: "pent.jpg",
+    imge: "b2.JPG",
     span: "&hearts;",
     direct: "New Brand Made in Rwanda... ",
 
@@ -823,8 +823,8 @@ const data  =[
 {
     id: 1,
     name: "sport jeans",
-    img: "/Images/pent1.jpg",
-    imge: "/Images/b2.JPG",
+    img: "pent1.jpg",
+    imge: "b2.JPG",
     span: "&hearts;",
     direct: "New Brand Made in Rwanda... ",
 
@@ -833,8 +833,8 @@ const data  =[
 {
     id: 1,
     name: "sport jeans",
-    img: "/Images/pent2.jpg",
-    imge: "/Images/b2.JPG",
+    img: "pent2.jpg",
+    imge: "b2.JPG",
     span: "&hearts;",
     direct: "New Brand Made in Rwanda.. ",
 
@@ -843,8 +843,8 @@ const data  =[
 {
     id: 1,
     name: "sport jeans",
-    img: "/Images/pent.jpg",
-    imge: "/Images/b2.JPG",
+    img: "pent.jpg",
+    imge: "b2.JPG",
     span: "&hearts;",
     direct: "New Brand Made in Rwanda.. ",
 
@@ -853,8 +853,8 @@ const data  =[
 {
     id: 1,
     name: "ssport t-shart",
-    img: "/Images/t-shart.webp",
-    imge: "/Images/b4.JPG",
+    img: "t-shart.webp",
+    imge: "b4.JPG",
     span: "&hearts;",
     direct: "New Brand Made in Rwanda... ",
 
@@ -863,8 +863,8 @@ const data  =[
 {
     id: 1,
     name: "sport t-shart",
-    img: "/Images/t-shart1.jpg",
-    imge: "/Images/b4.JPG",
+    img: "t-shart1.jpg",
+    imge: "b4.JPG",
     span: "&hearts;",
    direct: "New Brand Made in Rwanda... ",
 
@@ -873,8 +873,8 @@ const data  =[
 {
     id: 1,
     name: "sport t-shart",
-    img: "/Images/t-shart2.jpg",
-    imge: "/Images/b4.JPG",
+    img: "t-shart2.jpg",
+    imge: "b4.JPG",
     span: "&hearts;",
     direct: "New Brand Made in Rwanda... ",
 
@@ -883,26 +883,16 @@ const data  =[
 {
     id: 1,
     name: "sport t-shart",
-    img: "/Images/t-shart3.webp",
-    imge: "/Images/b4.JPG",
+    img: "t-shart3.webp",
+    imge: "b4.JPG",
     span: "&hearts;",
     direct: "New Brand Made in Rwanda... ",
 },
 {
     id: 1,
     name: "sport SHOES",
-    img: "/Images/shoes.png",
-    imge: "/Images/b3.JPG",
-    span: "&hearts;",
-    direct: "New Brand Made in Rwanda... ",
-
-
-},
-{
-    id: 1,
-    name: "sport SHOES",
-    img: "/Images/shoes1.jpg",
-    imge: "/Images/b3.JPG",
+    img: "shoes.png",
+    imge: "b3.JPG",
     span: "&hearts;",
     direct: "New Brand Made in Rwanda... ",
 
@@ -911,8 +901,18 @@ const data  =[
 {
     id: 1,
     name: "sport SHOES",
-    img: "/Images/shoes2.avif",
-    imge: "/Images/b3.JPG",
+    img: "shoes1.jpg",
+    imge: "b3.JPG",
+    span: "&hearts;",
+    direct: "New Brand Made in Rwanda... ",
+
+
+},
+{
+    id: 1,
+    name: "sport SHOES",
+    img: "shoes2.avif",
+    imge: "b3.JPG",
     span: "&hearts;",
     direct: "New Brand Made in Rwanda.. ",
 
@@ -921,8 +921,8 @@ const data  =[
 {
     id: 1,
     name: "sport SHOES",
-    img: "/Images/shoes3.jpg",
-    imge: "/Images/b3.JPG",
+    img: "shoes3.jpg",
+    imge: "b3.JPG",
     span: "&hearts;",
     direct: "New Brand Made in Rwanda... ",
 
@@ -931,8 +931,8 @@ const data  =[
 {
     id: 1,
     name: "sport SHOES",
-    img: "/Images/shoes4.jpg",
-    imge: "/Images/b3.JPG",
+    img: "shoes4.jpg",
+    imge: "b3.JPG",
     span: "&hearts;",
    direct: "New Brand Made in Rwanda... ",
 
@@ -941,8 +941,8 @@ const data  =[
 {
     id: 1,
     name: "sport SHOES",
-    img: "/Images/shoes5.jpg",
-    imge: "/Images/b3.JPG",
+    img: "shoes5.jpg",
+    imge: "b3.JPG",
     span: "&hearts;",
     direct: "New Brand Made in Rwanda... ",
 
@@ -951,8 +951,8 @@ const data  =[
 {
     id: 1,
     name: "sport SHOES",
-    img: "/Images/shoes6.jpg",
-    imge: "/Images/b3.JPG",
+    img: "shoes6.jpg",
+    imge: "b3.JPG",
     span: "&hearts;",
     direct: "New Brand Made in Rwanda... ",
 
@@ -961,8 +961,8 @@ const data  =[
 {
     id: 1,
     name: "sport jeans",
-    img: "/Images/pent.jpg",
-    imge: "/Images/b2.JPG",
+    img: "pent.jpg",
+    imge: "b2.JPG",
     span: "&hearts;",
     direct: "New Brand Made in Rwanda... ",
 
@@ -971,8 +971,8 @@ const data  =[
 {
     id: 1,
     name: "sport jeans",
-    img: "/Images/pent1.jpg",
-    imge: "/Images/b2.JPG",
+    img: "pent1.jpg",
+    imge: "b2.JPG",
     span: "&hearts;",
     direct: "New Brand Made in Rwanda... ",
 
@@ -981,8 +981,8 @@ const data  =[
 {
     id: 1,
     name: "sport jeans",
-    img: "/Images/pent2.jpg",
-    imge: "/Images/b2.JPG",
+    img: "pent2.jpg",
+    imge: "b2.JPG",
     span: "&hearts;",
     direct: "New Brand Made in Rwanda.. ",
 
@@ -991,8 +991,8 @@ const data  =[
 {
     id: 1,
     name: "sport jeans",
-    img: "/Images/pent.jpg",
-    imge: "/Images/b2.JPG",
+    img: "pent.jpg",
+    imge: "b2.JPG",
     span: "&hearts;",
     direct: "New Brand Made in Rwanda.. ",
 
@@ -1001,8 +1001,8 @@ const data  =[
 {
     id: 1,
     name: "ssport t-shart",
-    img: "/Images/t-shart.webp",
-    imge: "/Images/b4.JPG",
+    img: "t-shart.webp",
+    imge: "b4.JPG",
     span: "&hearts;",
     direct: "New Brand Made in Rwanda... ",
 
@@ -1011,8 +1011,8 @@ const data  =[
 {
     id: 1,
     name: "sport t-shart",
-    img: "/Images/t-shart1.jpg",
-    imge: "/Images/b4.JPG",
+    img: "t-shart1.jpg",
+    imge: "b4.JPG",
     span: "&hearts;",
    direct: "New Brand Made in Rwanda... ",
 
@@ -1021,8 +1021,8 @@ const data  =[
 {
     id: 1,
     name: "sport t-shart",
-    img: "/Images/t-shart2.jpg",
-    imge: "/Images/b4.JPG",
+    img: "t-shart2.jpg",
+    imge: "b4.JPG",
     span: "&hearts;",
     direct: "New Brand Made in Rwanda... ",
 
@@ -1032,8 +1032,8 @@ const data  =[
 {
     id: 1,
     name: "sport SHOES",
-    img: "/Images/shoes.png",
-    imge: "/Images/b3.JPG",
+    img: "shoes.png",
+    imge: "b3.JPG",
     span: "&hearts;",
     direct: "New Brand Made in Rwanda... ",
 
