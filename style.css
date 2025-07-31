@@ -168,17 +168,17 @@ h3{
     margin: auto;
     margin-top: 2rem;
     border-radius: 20px;
-    background-image: url("/Images/shops.webp");
+    background-image: url("shops.webp");
     cursor: grab;
     background-size: 100%;
     animation: slide 8s 2s infinite;
 }
 @keyframes slide {
-    0%{background-image: url("/Images/shops.webp");}
-    25%{background-image: url("/Images/shops1.jpg");}
-    50%{background-image: url("/Images/shops2.jpg");}
-    75%{background-image: url("/Images/shops3.jpg");}
-    100%{background-image: url("/Images/shops4.jpg");}
+    0%{background-image: url("shops.webp");}
+    25%{background-image: url("shops1.jpg");}
+    50%{background-image: url("shops2.jpg");}
+    75%{background-image: url("shops3.jpg");}
+    100%{background-image: url("shops4.jpg");}
     
     
     
